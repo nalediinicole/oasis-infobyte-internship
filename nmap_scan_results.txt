@@ -1,0 +1,34 @@
+Host is up (0.00040s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT    STATE SERVICE       VERSION
+135/tcp open  msrpc         Microsoft Windows RPC
+445/tcp open  microsoft-ds?
+Device type: general purpose
+Running: Microsoft Windows 11
+OS CPE: cpe:/o:microsoft:windows_11
+OS details: Microsoft Windows 11 24H2 - 25H2
+Uptime guess: 22.900 days (since Mon Jun 15 16:03:23 2026)
+Network Distance: 0 hops
+TCP Sequence Prediction: Difficulty=261 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-time: 
+|   date: 2026-07-08T11:38:42
+|_  start_date: N/A
+| smb2-security-mode: 
+|   3.1.1: 
+|_    Message signing enabled and required
+
+NSE: Script Post-scanning.
+Initiating NSE at 13:38
+Completed NSE at 13:38, 0.00s elapsed
+Initiating NSE at 13:38
+Completed NSE at 13:38, 0.00s elapsed
+Initiating NSE at 13:38
+Completed NSE at 13:38, 0.00s elapsed
+Read data files from: C:\Program Files (x86)\Nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 26.24 seconds
+           Raw packets sent: 1016 (45.418KB) | Rcvd: 2042 (87.170KB)
