@@ -70,6 +70,11 @@ Nmap successfully identified the operating system as **Windows 11 24H2 - 25H2**.
 
 ---
 
+## Demo Video
+Watch the Nmap scan demo here: https://drive.google.com/file/d/1GydIHM1egdmYOaFUoECFI1gLxzQDrgB_/view?usp=sharing
+
+---
+
 ## Files in This Repository
 | File | Description |
 |------|-------------|
